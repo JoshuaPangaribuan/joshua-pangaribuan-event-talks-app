@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": 60,
+    "description": "A deep dive into the trends and future of modern JavaScript frameworks like React, Vue, and Svelte."
+  },
+  {
+    "title": "Advanced CSS Grid Techniques",
+    "speakers": ["John Smith"],
+    "category": ["CSS", "Frontend"],
+    "duration": 60,
+    "description": "Explore powerful and creative layout techniques using CSS Grid that go beyond the basics."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Emily White", "Chris Green"],
+    "category": ["Node.js", "Backend", "API"],
+    "duration": 60,
+    "description": "Learn the best practices for designing and building RESTful APIs that are scalable and maintainable."
+  },
+  {
+    "title": "State of Web Assembly in 2025",
+    "speakers": ["Alex Johnson"],
+    "category": ["WebAssembly", "Performance"],
+    "duration": 60,
+    "description": "An overview of the current landscape of WebAssembly, its use cases, and what to expect in the coming year."
+  },
+  {
+    "title": "Cybersecurity for Web Developers",
+    "speakers": ["Samantha Brown"],
+    "category": ["Security", "Web Development"],
+    "duration": 60,
+    "description": "A practical guide to common web vulnerabilities and how to defend against them in your applications."
+  },
+  {
+    "title": "The Art of UI/UX Design",
+    "speakers": ["Michael Lee", "Sarah Davis"],
+    "category": ["UI", "UX", "Design"],
+    "duration": 60,
+    "description": "Discover the principles of creating intuitive and beautiful user interfaces that provide a great user experience."
+  }
+]
